@@ -1,6 +1,6 @@
-# sample project
+# Sample project
 
-# output
+# Output
 
 https://github.com/snehalgaykhe/Internship-task/assets/146797262/3ab20818-2222-450a-9747-c8817ec0e90f
 
